@@ -4,3 +4,4 @@ zad15.py
 .ipynb_checkpoints/
 test.py
 old/
+__pycache__/
